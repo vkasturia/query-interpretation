@@ -1,0 +1,3 @@
+[submodule "third-party/nordlys"]
+	path = third-party/nordlys
+	url = https://github.com/iai-group/nordlys.git

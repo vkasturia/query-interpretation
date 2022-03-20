@@ -1,0 +1,9 @@
+{
+  "index_name": "dbpedia_2015_10",
+  "first_pass": {
+    "num_docs": 100
+  },
+  "model": "lm",
+  "num_docs": 20,
+  "output_file": "results.txt"
+}

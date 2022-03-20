@@ -1,0 +1,22 @@
+# IntelliJ project files
+.idea
+/.classpath
+/.project
+/.settings
+/bin/
+
+/backend/third-party/
+/backend/target/
+/backend/data/annotations/
+/backend/data/persistent/
+/backend/data/smaph/
+/backend/data/disambiguation_links_20190701.tsv
+/backend/data/disambiguation_pages_20190701.csv
+/backend/src/main/resources/ner_model.dat
+/backend/data/corpora/corpus-erd-elq/fb_snapshot_original.tsv
+/backend/resources/
+/backend/src/main/resources/de/webis/fetching/local/wiki-redirects/
+
+/frontend/__pycache__/
+/frontend/venv/
+.DS_Store

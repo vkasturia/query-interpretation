@@ -1,0 +1,590 @@
+ID,QUERY,CAT,DIFFICULTY
+ysqle-trec-2013-93-0,+(black or african-american) history month events,CatQ,10
+esdbpediav2-INEX_LD-2012336,1906 territory papua island australian,ConQ,4
+ysqle-trec-2011-63-2,1990 fisa wiretap applications,CatQ,3
+esdbpediav2-INEX_LD-2012319,1994 short story collection alice munro is open,ConQ,4
+esdbpediav2-INEX_LD-2012341,1997 houston airport president,ConQ,3
+ysqle-trec-2013-70-3,aids africa charity donate,CatQ,10
+esdbpediav2-TREC_Entity-12,airlines that air canada has code share flights with.,CatQ,3
+esdbpediav2-TREC_Entity-7,airlines that currently use boeing 747 planes.,CatQ,100
+esdbpediav2-INEX_XER-140,airports in germany,CatQ,10
+esdbpediav2-INEX_XER-64,alan moore graphic novels adapted to film,CatQ,3
+esdbpediav2-INEX_LD-2012349,alexander nevsky cathedral bulgarian city liberation turks,ConQ,4
+esdbpediav2-INEX_LD-2012377,allegedly caused world war i,ConQ,3
+esdbpediav2-INEX_LD-2012363,american twins famous american professional tennis double players,ConQ,3
+esdbpediav2-INEX_LD-2012375,animals lay eggs mammals,CatQ,10
+esdbpediav2-SemSearch_LS-1,apollo astronauts who walked on the moon,CatQ,3
+esdbpediav2-SemSearch_LS-2,arab states of the persian gulf,CatQ,3
+esdbpediav2-INEX_LD-2012321,asian port state-city sir stamford raffles,ConQ,3
+esdbpediav2-SemSearch_LS-3,astronauts who landed on the moon,CatQ,3
+ysqle-trec-2010-119-1,atari consoles,CatQ,3
+ysqle-trec-2010-119-0,atari consoles history,CatQ,3
+ysqle-trec-2011-65-2,australia female wine makers,CatQ,100
+ysqle-trec-2011-64-2,australia female winemaker,CatQ,100
+ysqle-trec-2011-65-3,australia wine,CatQ,100
+ysqle-trec-2011-65-1,australian female winemakers,CatQ,100
+esdbpediav2-TREC_Entity-14,authors awarded an anthony award at bouchercon in 2007.,CatQ,3
+ysqle-yahoo-465-1,autozone locations,CatQ,100
+esdbpediav2-SemSearch_LS-4,axis powers of world war ii,CatQ,3
+ysqle-trec-2010-67-1,b57,LQ,3
+ysqle-yahoo-521-3,baby boy names,CatQ,100
+ysqle-yahoo-467-1,backdoor games,CatQ,10
+esdbpediav2-INEX_LD-2012315,baguio quezon city manila official independence 1945,ConQ,3
+ysqle-trec-2013-47-0,banned drinks,CatQ,10
+ysqle-trec-2013-47-1,banned food,CatQ,10
+esdbpediav2-INEX_LD-2012390,baseball player most homeruns national league,ConQ,3
+erd14-TREC-3,battles in the civil war,CatQ,100
+ysqle-yahoo-523-25,bbc sherlock episodes,CatQ,10
+ysqle-yahoo-510-13,beach chair,CatQ,100
+esdbpediav2-INEX_LD-2012327,beloved author african-american nobel prize literature,ConQ,3
+ysqle-yahoo-436-4,best buy laptops,CatQ,10
+ysqle-yahoo-426-1,best cameras for concerts,CatQ,4
+ysqle-yahoo-426-2,best cameras for photography,CatQ,4
+ysqle-trec-2010-29-0,best elliptical trainers for home use,ConQ,4
+ysqle-yahoo-518-3,best flea bomb,CatQ,4
+ysqle-trec-2013-62-6,best getaways,ConQ,4
+ysqle-yahoo-307-3,best house plans,ConQ,4
+ysqle-yahoo-458-0,best online shopping sites,CatQ,4
+ysqle-yahoo-51-0,best penpal sites,CatQ,4
+ysqle-trec-2012-3-1,best programming language for beginners,ConQ,4
+ysqle-trec-2013-62-1,best road trips,ConQ,4
+ysqle-yahoo-523-11,best snl hosts,CatQ,4
+ysqle-trec-2013-87-0,best us destinations,ConQ,4
+ysqle-trec-2013-62-2,best worst road trips,ConQ,4
+esdbpediav2-INEX_LD-20120421,bicycle holiday towns,CatQ,100
+esdbpediav2-INEX_LD-20120411,bicycle sport races,CatQ,10
+esdbpediav2-INEX_LD-2012373,birds cannot fly,CatQ,10
+ysqle-yahoo-261-0,black dog machine magazines,CatQ,10
+esdbpediav2-INEX_LD-2012359,bob ricker executive director the latest front group for the anti-gun movement,ConQ,4
+ysqle-trec-2010-55-0,bobcat tractor,CatQ,10
+ysqle-trec-2010-55-1,bobcat tractor attachment,CatQ,10
+ysqle-trec-2012-30-1,bollywood oscars,CatQ,3
+ysqle-trec-2012-29-1,bollywood stars,CatQ,100
+esdbpediav2-INEX_XER-128,bond girls,CatQ,10
+esdbpediav2-SemSearch_LS-6,boroughs of new york city,CatQ,3
+ysqle-yahoo-116-0,bow ties,CatQ,100
+esdbpediav2-SemSearch_LS-7,branches of the us military,CatQ,3
+ysqle-yahoo-475-0,cameras,CatQ,100
+esdbpediav2-TREC_Entity-10,campuses of indiana university.,CatQ,3
+ysqle-yahoo-101-1,cargo pants,CatQ,100
+esdbpediav2-TREC_Entity-1,carriers that blackberry makes phones for.,CatQ,10
+ysqle-yahoo-17-0,cast of starship troopers 2,CatQ,10
+ysqle-yahoo-366-0,cate blanchett role,CatQ,10
+ysqle-trec-2010-130-0,cell phones,CatQ,100
+ysqle-yahoo-496-2,century theaters san francisco,CatQ,10
+ysqle-trec-2011-56-4,chanel top fragrance,ConQ,4
+ysqle-trec-2011-56-5,chanel top fragrance in the world,ConQ,4
+ysqle-trec-2010-21-1,cheap dsl providers,CatQ,4
+ysqle-yahoo-114-0,cheap lights dj,CatQ,4
+ysqle-yahoo-114-1,cheap lights dj equipment,CatQ,4
+esdbpediav2-TREC_Entity-17,chefs with a show on the food network.,CatQ,10
+esdbpediav2-INEX_XER-147,chemical elements that are named after people,CatQ,10
+esdbpediav2-INEX_XER-144,chess world champions,CatQ,10
+ysqle-yahoo-93-17,china aircraft carrier,CatQ,10
+ysqle-yahoo-353-0,cinque terre accommodation,CatQ,10
+esdbpediav2-INEX_XER-74,circus mammals,CatQ,10
+ysqle-yahoo-251-7,city of los angeles jobs,CatQ,100
+erd14-TREC-12,civil right movement,CatQ,10
+ysqle-trec-2011-68-3,co stars of jack nicholson,CatQ,10
+ysqle-yahoo-229-2,combat boots for women,CatQ,100
+esdbpediav2-TREC_Entity-19,companies that john hennessey serves on the board of.,CatQ,3
+ysqle-trec-2013-95-0,comparison hotels new york city,CatQ,10
+esdbpediav2-INEX_XER-97,compilers that can compile both c and c++,CatQ,10
+esdbpediav2-INEX_LD-2010014,composer museum,CatQ,100
+ysqle-yahoo-113-4,computer,CatQ,100
+esdbpediav2-INEX_XER-99,computer systems that have a recursive acronym for the name,CatQ,10
+ysqle-trec-2010-35-0,computer worms,CatQ,100
+ysqle-yahoo-493-17,concerts in charlotte nc,CatQ,4
+esdbpediav2-SemSearch_LS-8,continents in the world,CatQ,3
+esdbpediav2-INEX_XER-125,countries which have won the fifa world cup,CatQ,10
+esdbpediav2-INEX_LD-2012353,country german language,CatQ,3
+esdbpediav2-INEX_LD-2012317,daggeroso inclined to use a dagger novel sons and lovers,ConQ,4
+ysqle-trec-2010-117-1,deadliest tornadoes,CatQ,4
+ysqle-trec-2010-8-0,defender game,CatQ,100
+ysqle-trec-2010-8-1,defender game online,CatQ,100
+esdbpediav2-SemSearch_LS-9,degrees of eastern orthodox monasticism,CatQ,3
+ysqle-trec-2012-72-0,dehumidifier,CatQ,100
+ysqle-trec-2012-77-0,dehumidifier any good?,ConQ,4
+ysqle-trec-2012-77-1,dehumidifier any good? uk,ConQ,4
+ysqle-trec-2012-74-0,dehumidifier comparison,CatQ,100
+ysqle-trec-2012-75-0,dehumidifier comparison ratings,CatQ,100
+ysqle-trec-2012-75-1,dehumidifier comparison ratings uk,CatQ,100
+ysqle-trec-2012-74-1,dehumidifier comparison uk,CatQ,100
+ysqle-trec-2012-74-2,dehumidifier comparison which?,CatQ,100
+ysqle-trec-2012-71-0,dehumidifiers,CatQ,100
+ysqle-trec-2012-73-1,dehumidifiers timer frost-free,CatQ,100
+ysqle-trec-2011-28-1,derivation of nickname,ConQ,4
+erd14-TREC-16,designer dog breeds,CatQ,10
+ysqle-trec-2012-8-0,designer dogs,CatQ,10
+ysqle-trec-2012-9-1,designer dogs crossbreeds,CatQ,100
+ysqle-trec-2012-8-1,designer dogs types,CatQ,10
+ysqle-trec-2010-3-0,diabetes education videos books,CatQ,100
+esdbpediav2-SemSearch_LS-10,did nicole kidman have any siblings,"CatQ, QQ",3
+ysqle-trec-2010-53-1,digital cameras gps,CatQ,100
+esdbpediav2-INEX_LD-20120522,digital music notation formats,CatQ,10
+ysqle-trec-2010-138-0,dinosaurs,CatQ,100
+ysqle-trec-2010-138-1,dinosaurs pics,ConQ,100
+esdbpediav2-SemSearch_LS-11,dioceses of the church of ireland,CatQ,3
+esdbpediav2-INEX_LD-2012318,directed bela glen glenda bride monster plan 9 outer space,ConQ,4
+ysqle-trec-2010-38-0,djs,CatQ,100
+ysqle-trec-2010-38-1,djs jobs,CatQ,100
+ysqle-yahoo-101-2,dockers slacks,CatQ,100
+esdbpediav2-TREC_Entity-11,donors to the home depot foundation.,CatQ,100
+ysqle-trec-2011-21-0,dooney and bourke imitations,CatQ,100
+ysqle-trec-2011-21-1,dooney and bourke replicas,CatQ,100
+ysqle-trec-2011-21-2,dooney and bourke replicas makers,CatQ,100
+ysqle-trec-2011-20-0,dooney bourke look alike purses,CatQ,100
+ysqle-trec-2011-20-2,dooney bourke purses,CatQ,100
+ysqle-trec-2013-23-2,dulles hotels,CatQ,10
+ysqle-yahoo-504-1,ebooks,CatQ,100
+esdbpediav2-INEX_LD-20120521,electronic music genres,CatQ,100
+ysqle-trec-2010-103-0,elliptical trainer,CatQ,100
+ysqle-trec-2010-29-1,elliptical trainers,CatQ,100
+esdbpediav2-INEX_LD-2012355,england football player highest paid,ConQ,3
+ysqle-trec-2013-62-5,enjoyable boring getaways,ConQ,4
+ysqle-trec-2013-62-4,enjoyable boring road trip,ConQ,4
+ysqle-trec-2010-42-1,er episodes,CatQ,100
+ysqle-yahoo-18-0,esther phillips music,CatQ,10
+esdbpediav2-INEX_XER-133,eu countries,CatQ,10
+ysqle-trec-2010-6-0,euclid trucks,CatQ,10
+ysqle-trec-2010-6-1,euclid trucks parts,CatQ,100
+esdbpediav2-INEX_LD-2009111,europe solar power facility,ConQ,100
+ysqle-trec-2013-59-1,eurozone crisis leader actions,CatQ,10
+ysqle-trec-2011-2-1,event planning college,CatQ,100
+ysqle-trec-2011-2-0,event planning studying college,CatQ,100
+ysqle-trec-2010-117-0,f5 tornadoes,CatQ,100
+ysqle-trec-2010-43-1,fabric adhesive,CatQ,100
+ysqle-trec-2010-43-0,fabric glue,CatQ,100
+esdbpediav2-INEX_LD-2012383,famous computer scientists disappeared at sea,CatQ,10
+esdbpediav2-INEX_LD-2012372,famous historical battlefields opponents fought,CatQ,4
+esdbpediav2-INEX_LD-2012385,famous politicians vegetarians,CatQ,100
+esdbpediav2-INEX_LD-2012387,famous river confluence dam constructed,ConQ,3
+ysqle-trec-2010-20-1,fantasy football leagues,CatQ,10
+esdbpediav2-INEX_LD-20120511,female rock singers,CatQ,100
+ysqle-trec-2011-66-4,female winemakers australia,CatQ,100
+ysqle-trec-2011-66-5,female winemakers site:.com.au,ConQ,3
+esdbpediav2-INEX_XER-67,ferris and observation wheels,CatQ,10
+esdbpediav2-INEX_XER-123,fifa world cup national team winners since 1974,CatQ,10
+esdbpediav2-INEX_XER-139,films directed by akira kurosawa,CatQ,10
+esdbpediav2-INEX_XER-72,films shot in venice,CatQ,100
+esdbpediav2-INEX_LD-2009053,finland car industry manufacturer saab sisu,"ConQ, LQ",4
+esdbpediav2-SemSearch_LS-12,first targets of the atomic bomb,ConQ,3
+esdbpediav2-SemSearch_LS-13,five great epics of tamil literature,CatQ,3
+esdbpediav2-QALD2_te-99,for which label did elvis record his first album?,QQ,3
+ysqle-trec-2010-100-1,forearm braces,CatQ,100
+esdbpediav2-INEX_XER-113,formula 1 drivers that won the monaco grand prix,CatQ,100
+esdbpediav2-INEX_XER-114,formula one races in europe,CatQ,100
+esdbpediav2-INEX_XER-115,formula one world constructors champions,CatQ,10
+ysqle-trec-2012-24-0,france world cup winners,CatQ,10
+ysqle-yahoo-207-0,free online games,CatQ,100
+esdbpediav2-INEX_XER-118,french car models in 1960s,CatQ,100
+esdbpediav2-INEX_LD-2012389,frequently visited sharks gulf indian ocean,ConQ,4
+ysqle-yahoo-510-11,gas grills,CatQ,100
+esdbpediav2-INEX_XER-127,german female politicians,CatQ,100
+esdbpediav2-QALD2_te-82,give me a list of all american inventions.,CatQ,100
+esdbpediav2-QALD2_te-60,give me a list of all lakes in denmark.,CatQ,100
+esdbpediav2-QALD2_te-9,give me a list of all trumpet players that were bandleaders.,CatQ,100
+esdbpediav2-QALD2_tr-63,give me all actors starring in batman begins.,CatQ,10
+esdbpediav2-QALD2_te-29,give me all actors starring in movies directed by and starring william shatner.,CatQ,10
+esdbpediav2-QALD2_te-63,give me all argentine films.,CatQ,100
+esdbpediav2-QALD2_te-33,give me all australian nonprofit organizations.,CatQ,100
+esdbpediav2-QALD2_te-80,give me all books by william goldman with more than 300 pages.,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-78,give me all books written by danielle steel.,CatQ,10
+esdbpediav2-QALD2_te-43,give me all breeds of the german shepherd dog.,CatQ,10
+esdbpediav2-QALD2_tr-80,give me all canadian grunge record labels.,CatQ,3
+esdbpediav2-QALD2_te-17,give me all cars that are produced in germany.,CatQ,100
+esdbpediav2-QALD2_tr-17,give me all cities in new jersey with more than 100000 inhabitants.,CatQ,100
+esdbpediav2-QALD2_te-39,give me all companies in munich.,"CatQ, QQ",100
+esdbpediav2-QALD2_tr-49,give me all companies in the advertising industry.,CatQ,100
+esdbpediav2-QALD2_te-31,give me all current methodist national leaders.,CatQ,10
+esdbpediav2-QALD2_tr-86,give me all female german chancellors.,CatQ,3
+esdbpediav2-QALD2_tr-1,give me all female russian astronauts.,CatQ,100
+esdbpediav2-QALD2_tr-70,give me all films produced by hal roach.,CatQ,10
+esdbpediav2-QALD2_te-51,give me all frisian islands that belong to the netherlands.,CatQ,10
+esdbpediav2-QALD2_te-64,give me all launch pads operated by nasa.,CatQ,10
+esdbpediav2-QALD2_te-14,give me all members of prodigy.,CatQ,3
+esdbpediav2-QALD2_te-28,give me all movies directed by francis ford coppola.,CatQ,10
+esdbpediav2-QALD2_tr-84,give me all movies with tom cruise.,CatQ,10
+esdbpediav2-QALD2_te-19,give me all people that were born in vienna and died in berlin.,CatQ,100
+esdbpediav2-QALD2_tr-59,give me all people with first name jimmy.,CatQ,100
+esdbpediav2-QALD2_tr-53,give me all presidents of the united states.,CatQ,10
+esdbpediav2-QALD2_te-6,give me all professional skateboarders from sweden.,CatQ,100
+esdbpediav2-QALD2_tr-51,give me all school types.,CatQ,10
+esdbpediav2-QALD2_tr-41,give me all soccer clubs in spain.,CatQ,100
+esdbpediav2-QALD2_tr-89,give me all soccer clubs in the premier league.,CatQ,10
+esdbpediav2-QALD2_tr-71,give me all video games published by mean hamster software.,CatQ,10
+esdbpediav2-QALD2_te-12,give me all world heritage sites designated within the past five years.,CatQ,100
+esdbpediav2-QALD2_te-57,give me the apollo 14 astronauts.,CatQ,10
+esdbpediav2-QALD2_tr-16,give me the capitals of all countries in africa.,CatQ,100
+esdbpediav2-SemSearch_LS-14,gods who dwelt on mount olympus,CatQ,3
+ysqle-trec-2013-63-0,good internet phone services,CatQ,10
+ysqle-trec-2010-122-0,gps devices,CatQ,100
+ysqle-trec-2010-53-0,gps receivers,CatQ,100
+esdbpediav2-INEX_LD-2012354,greatest guitarist,ConQ,4
+ysqle-trec-2013-34-2,guide internet phone services,CatQ,10
+esdbpediav2-INEX_LD-20120212,guitar chord minor,ConQ,10
+esdbpediav2-INEX_LD-20120211,guitar chord tuning,ConQ,10
+esdbpediav2-INEX_LD-20120231,guitar origin russia,ConQ,4
+ysqle-yahoo-201-2,gun shops in myrtle beach sc,CatQ,3
+ysqle-trec-2013-43-2,gun violence on us campus,CatQ,10
+ysqle-trec-2013-43-1,gun violence on us college campus,CatQ,10
+ysqle-trec-2013-42-1,gun violence us campuses,CatQ,10
+ysqle-yahoo-516-13,gymboree baby clothes,CatQ,100
+ysqle-yahoo-321-4,hamilton beach coffeemaker,CatQ,10
+esdbpediav2-INEX_XER-143,hanseatic league in germany in the netherlands circle,ConQ,3
+ysqle-trec-2012-88-1,hermetic sealing services,CatQ,100
+esdbpediav2-SemSearch_LS-16,hijackers in the september 11 attacks,CatQ,3
+ysqle-trec-2010-32-1,history games,CatQ,100
+ysqle-trec-2013-70-1,hiv africa charity,CatQ,10
+ysqle-trec-2013-70-2,hiv africa charity donate,CatQ,10
+ysqle-trec-2013-70-0,hiv africa charity medicine,CatQ,10
+ysqle-trec-2013-126-0,hiv aids prevention cure charities in africa,CatQ,3
+ysqle-trec-2010-112-1,hotels rincon puerto rico,CatQ,10
+esdbpediav2-SemSearch_LS-17,houses of the russian parliament,CatQ,3
+esdbpediav2-INEX_XER-63,hugo awarded best novels,CatQ,10
+esdbpediav2-INEX_XER-94,hybrid cars sold in europe,CatQ,10
+ysqle-trec-2013-47-2,illegal beverages,CatQ,10
+esdbpediav2-QALD2_te-89,in which city was the former dutch queen juliana buried?,QQ,3
+esdbpediav2-QALD2_tr-10,in which country does the nile start?,QQ,3
+esdbpediav2-QALD2_tr-22,in which country is the limerick lake?,QQ,3
+esdbpediav2-QALD2_tr-85,in which films did julia roberts as well as richard gere play?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-25,in which films directed by garry marshall was julia roberts starring?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-34,in which military conflicts did lawrence of arabia participate?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-82,in which programming language is gimp written?,QQ,3
+esdbpediav2-QALD2_te-72,in which u.s. state is area 51 located?,QQ,3
+esdbpediav2-QALD2_te-48,in which uk city are the headquarters of the mi6?,"CatQ, QQ",3
+esdbpediav2-INEX_LD-2012351,indian cuisine dish rice dhal vegetables roti papad,ConQ,4
+ysqle-yahoo-192-2,international sports,CatQ,100
+ysqle-trec-2013-34-0,internet phone services,CatQ,10
+ysqle-trec-2013-34-1,internet phone services review,CatQ,10
+esdbpediav2-INEX_LD-2012367,invented telescope,ConQ,3
+ysqle-trec-2010-10-1,iron supplements,CatQ,100
+esdbpediav2-INEX_XER-116,italian nobel prize winners,CatQ,10
+ysqle-trec-2011-68-2,jack nicholson and his co stars,CatQ,10
+ysqle-trec-2011-68-1,jack nicholson co stars,CatQ,10
+esdbpediav2-INEX_XER-136,japanese players in major league baseball,CatQ,100
+ysqle-yahoo-20-3,jc penney curtains,CatQ,10
+esdbpediav2-INEX_LD-2012313,john turturro 1991 coen brothers film,ConQ,3
+ysqle-trec-2013-18-0,jp morgan chase data centers,CatQ,3
+ysqle-trec-2013-17-0,jp morgan data centers,CatQ,3
+ysqle-trec-2013-17-3,jp morgan largest data center,ConQ,3
+ysqle-trec-2013-99-0,kansas attractions,CatQ,10
+ysqle-trec-2013-13-1,kansas city airport hotels,CatQ,3
+ysqle-trec-2013-13-2,kansas city casino,CatQ,10
+ysqle-trec-2013-13-4,kansas city state parks,CatQ,10
+ysqle-trec-2013-13-3,kansas city zoo,CatQ,3
+esdbpediav2-INEX_LD-2012345,kennedy assassination governor of texas seriously injured,ConQ,4
+esdbpediav2-SemSearch_LS-19,kenyas captain in cricket,CatQ,3
+esdbpediav2-SemSearch_LS-20,kublai khan siblings,"CatQ, RQ",3
+ysqle-trec-2012-11-7,kursk 2000 countries express regret,CatQ,3
+ysqle-trec-2012-11-6,kursk countries express regret,CatQ,3
+ysqle-trec-2012-11-8,kursk uk subs in area,CatQ,3
+ysqle-yahoo-47-2,la grange tx funeral homes,CatQ,3
+ysqle-trec-2011-26-2,lake murray largest fish,ConQ,3
+esdbpediav2-INEX_LD-2012323,large glaciers island nation langjokull hofsjokull vatnajokull,ConQ,3
+ysqle-trec-2011-60-4,largest meat eating marsupial,ConQ,3
+ysqle-yahoo-44-1,laxatives,CatQ,100
+esdbpediav2-QALD2_te-40,list all boardgames by gmt.,CatQ,10
+esdbpediav2-QALD2_tr-57,list all episodes of the first season of the hbo television series the sopranos!,CatQ,100
+esdbpediav2-INEX_XER-86,list of countries in world war two,CatQ,10
+esdbpediav2-INEX_LD-2010043,list of films from the surrealist category,CatQ,100
+esdbpediav2-QALD2_te-76,list the children of margaret thatcher.,CatQ,3
+ysqle-yahoo-507-0,little rascals cast,CatQ,10
+esdbpediav2-INEX_XER-132,living nordic classical composers,CatQ,100
+ysqle-trec-2011-61-1,longest serving federal reserve chairman,ConQ,3
+ysqle-trec-2010-24-0,low cost internet providers,CatQ,4
+ysqle-yahoo-44-0,lunette menstrual cup,CatQ,10
+esdbpediav2-INEX_XER-73,magazines about indie-music,CatQ,10
+esdbpediav2-SemSearch_LS-22,major leagues in the united states,CatQ,10
+esdbpediav2-INEX_XER-98,makers of lawn tennis rackets,CatQ,10
+ysqle-trec-2013-70-4,malaria africa charity donate,CatQ,10
+ysqle-trec-2010-35-1,malware,CatQ,100
+ysqle-trec-2013-20-6,march madness 2012 final four,ConQ,3
+ysqle-trec-2013-20-4,march madness 2012 host city,ConQ,3
+ysqle-trec-2013-20-5,march madness 2012 host stadium,ConQ,3
+ysqle-trec-2013-20-2,march madness 2012 winning team,ConQ,3
+ysqle-trec-2011-60-8,marsupial cartoon character,CatQ,3
+ysqle-trec-2011-60-5,marsupial outside australia,CatQ,3
+ysqle-trec-2011-60-3,marsupials,CatQ,3
+ysqle-trec-2011-59-1,marsupials cartoon,CatQ,3
+esdbpediav2-INEX_LD-2012365,mathematician computer scientist mits six inaugural macvicar faculty fellows,ConQ,3
+esdbpediav2-SemSearch_LS-24,matt berry tv series,CatQ,10
+esdbpediav2-TREC_Entity-18,members of the band jefferson airplane.,CatQ,3
+esdbpediav2-TREC_Entity-9,members of the beaux arts trio.,CatQ,3
+ysqle-trec-2012-37-0,merck lobbyists,CatQ,3
+ysqle-yahoo-371-2,merrell shoes,CatQ,10
+ysqle-yahoo-163-0,mexican mayor killed,ConQ,3
+ysqle-yahoo-248-12,miss universe,CatQ,10
+esdbpediav2-INEX_LD-2012371,most beautiful railway stations world cities located,CatQ,4
+ysqle-trec-2013-42-2,most deadly type of gun in gun violence,ConQ,4
+esdbpediav2-INEX_LD-2012361,most famous award winning actor singer,ConQ,4
+esdbpediav2-INEX_LD-2012369,most famous civic-military airports,ConQ,4
+ysqle-trec-2013-42-0,most violent gun violence events,ConQ,4
+erd14-TREC-54,mothers day songs,ConQ,10
+esdbpediav2-INEX_LD-2012381,movie directors directed a block buster,CatQ,100
+ysqle-yahoo-490-0,movie theaters kalamazoo mi,CatQ,3
+esdbpediav2-INEX_XER-81,movies about english hooligans,CatQ,10
+esdbpediav2-SemSearch_LS-26,movies starring erykah badu,CatQ,10
+esdbpediav2-INEX_XER-122,movies with eight or more academy awards,CatQ,10
+ysqle-yahoo-143-0,mp3 players,CatQ,100
+esdbpediav2-INEX_LD-20120531,music conferences,CatQ,100
+esdbpediav2-INEX_XER-117,musicians who appeared in the blues brothers movies,CatQ,10
+esdbpediav2-INEX_XER-109,national capitals situated on islands,CatQ,10
+esdbpediav2-INEX_XER-138,national parks east coast canada us,CatQ,10
+esdbpediav2-SemSearch_LS-29,nations where portuguese is an official language,CatQ,3
+esdbpediav2-INEX_XER-62,neil gaiman novels,CatQ,10
+ysqle-trec-2010-4-0,neil young albums,CatQ,10
+ysqle-trec-2010-23-1,new ps 2 games,CatQ,4
+ysqle-yahoo-510-1,new release dvd,ConQ,4
+ysqle-trec-2011-28-0,nicknames what are,ConQ,4
+esdbpediav2-INEX_XER-110,nobel prize in literature winners who were also poets,CatQ,10
+ysqle-yahoo-140-4,nobel winner dies,CatQ,10
+esdbpediav2-INEX_XER-106,noble english person from the hundred years war,CatQ,100
+ysqle-trec-2011-60-1,non-extinct marsupials,CatQ,3
+esdbpediav2-INEX_XER-88,nordic authors who are known for childrens literature,CatQ,10
+esdbpediav2-INEX_LD-2012305,north dakotas lowest river of another colour,ConQ,4
+ysqle-yahoo-246-0,north korean assassination weapons,CatQ,10
+ysqle-yahoo-417-0,notebook,CatQ,100
+esdbpediav2-INEX_XER-124,novels that won the booker prize,CatQ,10
+ysqle-trec-2013-39-1,number of suny colleges,CatQ,10
+ysqle-trec-2010-118-1,obama family,RQ,10
+ysqle-trec-2010-102-1,obamas mother,RQ,3
+ysqle-trec-2010-59-1,ocd famous sufferers,CatQ,10
+esdbpediav2-INEX_XER-60,olympic classes dinghy sailing,CatQ,3
+esdbpediav2-INEX_XER-100,operating systems to which steve jobs related,CatQ,3
+esdbpediav2-SemSearch_LS-30,orders (or choirs) of angels,CatQ,3
+ysqle-trec-2010-18-1,organization dog adoption,CatQ,100
+esdbpediav2-TREC_Entity-6,organizations that award nobel prizes.,CatQ,3
+esdbpediav2-SemSearch_ES-67,ovguide movies,CatQ,100
+esdbpediav2-INEX_XER-65,pacific navigators australia explorers,CatQ,10
+ysqle-yahoo-385-7,papa johns c,ConQ,4
+ysqle-yahoo-385-8,papa johns co,ConQ,4
+ysqle-trec-2013-48-4,patent lawyer,CatQ,100
+ysqle-trec-2013-48-1,patent office,CatQ,10
+ysqle-yahoo-426-0,patio furiture,CatQ,100
+esdbpediav2-INEX_XER-91,paul auster novels,CatQ,10
+ysqle-yahoo-78-2,pdf converter,CatQ,10
+ysqle-yahoo-78-3,pdf converter online,CatQ,10
+esdbpediav2-SemSearch_LS-31,permanent members of the un security council,CatQ,3
+ysqle-trec-2013-120-0,philadelphia attractions,CatQ,10
+ysqle-trec-2013-121-0,philadelphia tourist attractions,CatQ,10
+ysqle-trec-2012-7-2,philidelphia car rental,CatQ,3
+ysqle-trec-2013-63-6,phone internet providers,CatQ,10
+ysqle-trec-2011-20-1,pictures of dooney bourke look alike purses,ConQ,100
+ysqle-trec-2010-134-0,poker tournaments,CatQ,100
+ysqle-yahoo-86-0,power bright inverters,CatQ,10
+erd14-TREC-59,president of the united states,RQ,10
+ysqle-yahoo-13-4,presidents,CatQ,100
+esdbpediav2-SemSearch_LS-32,presidents depicted on mount rushmore who died of shooting,CatQ,3
+ysqle-yahoo-13-7,presidents elected,CatQ,100
+ysqle-yahoo-13-8,presidents elected without popular vote,CatQ,100
+ysqle-yahoo-13-6,presidents email,CatQ,100
+esdbpediav2-INEX_LD-2012357,prima ballerina bolshoi theatre 1960,CatQ,100
+esdbpediav2-INEX_LD-2012333,prime minister canada nicknamed silver-tongued laurier longest unbroken term,ConQ,4
+esdbpediav2-TREC_Entity-5,"products of medimmune, inc.",CatQ,100
+esdbpediav2-INEX_XER-135,professional baseball team in japan,CatQ,10
+esdbpediav2-TREC_Entity-4,professional sports teams in philadelphia.,CatQ,10
+ysqle-trec-2010-24-1,providers free wireless,CatQ,100
+esdbpediav2-SemSearch_LS-33,provinces and territories of canada,CatQ,10
+erd14-TREC-60,ps 2 games,CatQ,3
+esdbpediav2-INEX_XER-96,pure object-oriented programing languages,CatQ,10
+esdbpediav2-SemSearch_LS-34,ratt albums,CatQ,10
+esdbpediav2-INEX_XER-134,record-breaking sprinters in male 100-meter sprints,CatQ,10
+esdbpediav2-SemSearch_LS-35,republics of the former yugoslavia,CatQ,3
+esdbpediav2-INEX_LD-2012309,residents small island city-state malay peninsula chinese,ConQ,4
+esdbpediav2-SemSearch_LS-36,revolutionaries of 1959 in cuba,CatQ,3
+ysqle-yahoo-510-14,rio beach chair,CatQ,10
+ysqle-yahoo-200-0,river phoenix film,CatQ,10
+ysqle-yahoo-371-4,ryka shoes,CatQ,10
+ysqle-trec-2012-89-2,sample tube sealing expert,CatQ,100
+ysqle-trec-2012-89-1,sample tube sealing services,CatQ,100
+ysqle-yahoo-176-0,samsung mobile phones,CatQ,10
+ysqle-trec-2010-91-1,satellite internet providers,CatQ,100
+esdbpediav2-INEX_XER-129,science fiction book written in the 1980,CatQ,10
+ysqle-trec-2010-84-1,science toys for kids,CatQ,100
+ysqle-trec-2013-2-2,scooter,CatQ,100
+ysqle-trec-2013-2-0,scooter brands,CatQ,100
+ysqle-trec-2013-2-1,scooter brands reliable,CatQ,4
+ysqle-trec-2013-2-3,scooter cheap,CatQ,100
+ysqle-trec-2013-2-5,scooter price,CatQ,100
+ysqle-trec-2013-2-4,scooter review,CatQ,100
+ysqle-trec-2013-2-6,scooter stores,CatQ,100
+esdbpediav2-TREC_Entity-20,scotch whisky distilleries on the island of islay.,CatQ,3
+esdbpediav2-QALD2_te-27,sean parnell is the governor of which u.s. state?,QQ,3
+esdbpediav2-INEX_LD-2012347,seat florida country dade,ConQ,4
+ysqle-trec-2013-85-0,secondhand camera shop,CatQ,100
+esdbpediav2-INEX_LD-2012331,seoul korea river name ethnic group china,ConQ,4
+esdbpediav2-QALD2_te-92,show me all songs from bruce springsteen released between 1980 and 1990.,CatQ,10
+ysqle-yahoo-261-1,sig 522 magazine,CatQ,10
+ysqle-yahoo-261-2,sig 522 magazine loader,CatQ,10
+erd14-TREC-67,signs of a heartattack,CatQ,10
+ysqle-yahoo-358-1,sikkens deck stain,CatQ,10
+ysqle-trec-2011-58-6,snooker reigning superstar,ConQ,4
+ysqle-yahoo-468-10,snow chains,CatQ,100
+ysqle-trec-2010-51-0,solar panels,CatQ,100
+ysqle-trec-2010-51-1,solar panels nano-technology,CatQ,100
+esdbpediav2-INEX_LD-20120512,south korean girl groups,CatQ,100
+ysqle-yahoo-461-7,spa moving equipment,CatQ,10
+ysqle-yahoo-509-5,spanish province,CatQ,10
+esdbpediav2-TREC_Entity-16,sponsors of the mancuso quilt festivals.,CatQ,100
+ysqle-yahoo-144-0,springfield mo movie theaters,CatQ,3
+esdbpediav2-SemSearch_LS-37,standard axioms of set theory,CatQ,3
+esdbpediav2-INEX_XER-130,star trek captains,CatQ,100
+esdbpediav2-INEX_XER-108,state capitals of the united states of america,CatQ,100
+esdbpediav2-SemSearch_LS-38,states that border oklahoma,CatQ,3
+ysqle-yahoo-436-7,stores with layaway,CatQ,100
+ysqle-trec-2010-86-0,student at mitchell college,CatQ,100
+ysqle-yahoo-504-0,stuhrling watches,CatQ,10
+esdbpediav2-INEX_LD-2012325,successor james g. blaine studied law,ConQ,3
+esdbpediav2-INEX_LD-2010069,summer flowers,CatQ,100
+ysqle-trec-2013-38-0,suny colleges,CatQ,10
+ysqle-trec-2013-39-0,suny colleges names,CatQ,10
+esdbpediav2-INEX_LD-2012329,sweden iceland currency,ConQ,4
+esdbpediav2-INEX_XER-119,swiss cantons where they speak german,CatQ,10
+esdbpediav2-INEX_LD-20120312,tango culture countries,CatQ,4
+esdbpediav2-INEX_LD-20120311,tango culture movies,CatQ,10
+esdbpediav2-INEX_LD-20120331,tango dance styles,CatQ,10
+esdbpediav2-INEX_LD-20120321,tango music composers,CatQ,100
+ysqle-yahoo-513-0,target stores,CatQ,100
+ysqle-yahoo-29-2,tea tree oil,CatQ,10
+ysqle-yahoo-29-3,tea tree oil shampoo,CatQ,10
+ysqle-yahoo-29-4,tea tree oil shampoo lice,CatQ,10
+esdbpediav2-SemSearch_LS-39,ten ancient greek city-kingdoms of cyprus,CatQ,3
+ysqle-trec-2012-88-0,test tube sealing services,CatQ,100
+esdbpediav2-INEX_LD-2012337,texas city baylor university tornado 1953,ConQ,3
+esdbpediav2-SemSearch_LS-40,the first 13 american states,CatQ,10
+esdbpediav2-SemSearch_LS-41,the four of the companions of the prophet,CatQ,3
+ysqle-trec-2010-101-0,the music man songs,CatQ,10
+esdbpediav2-QALD2_tr-36,through which countries does the yenisei river flow?,"CatQ, QQ",3
+ysqle-yahoo-84-5,tim burton characters,CatQ,10
+ysqle-yahoo-84-7,tim burton movies,CatQ,10
+ysqle-yahoo-468-9,tire chains,CatQ,100
+esdbpediav2-QALD2_te-8,to which countries does the himalayan mountain system extend?,"CatQ, QQ",3
+esdbpediav2-INEX_XER-95,tom hanks movies where he plays a leading role.,CatQ,10
+ysqle-trec-2010-50-0,tornadoes,CatQ,100
+esdbpediav2-INEX_XER-126,toy train manufacturers that are still in business,CatQ,10
+ysqle-yahoo-155-2,tumblr fat girls,CatQ,100
+esdbpediav2-SemSearch_LS-42,twelve tribes or sons of israel,CatQ,10
+ysqle-trec-2013-43-3,types of gun used in violent events,CatQ,100
+esdbpediav2-INEX_LD-2012335,u.s. president authorise nuclear weapons against japan,CatQ,10
+esdbpediav2-INEX_XER-141,universities in catalunya,CatQ,10
+esdbpediav2-TREC_Entity-15,universities that are members of the sec conference for football.,CatQ,3
+ysqle-trec-2013-1-0,us civil war causes,ConQ,10
+ysqle-trec-2013-1-1,us civil war economic causes,ConQ,10
+esdbpediav2-INEX_XER-121,us presidents since 1960,CatQ,10
+ysqle-yahoo-371-3,vibram shoes,CatQ,10
+esdbpediav2-INEX_LD-20120132,vietnam travel airports,ConQ,10
+esdbpediav2-INEX_LD-20120131,vietnam travel national park,ConQ,10
+esdbpediav2-INEX_LD-20120111,vietnam war movie,CatQ,100
+esdbpediav2-INEX_LD-2009115,virtual museums,CatQ,100
+ysqle-trec-2013-34-3,voip providers,CatQ,100
+ysqle-trec-2010-27-1,volvo semi trucks,CatQ,10
+ysqle-trec-2010-136-0,web hosting services small business,CatQ,100
+esdbpediav2-INEX_LD-2009074,web ranking scoring algorithm,ConQ,10
+esdbpediav2-QALD2_tr-42,what are the official languages of the philippines?,QQ,3
+esdbpediav2-SemSearch_LS-43,what books did paul of tarsus write?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-50,what did bruce carver die from?,QQ,3
+esdbpediav2-QALD2_te-21,what is the capital of canada?,QQ,3
+esdbpediav2-QALD2_tr-31,what is the currency of the czech republic?,QQ,3
+esdbpediav2-QALD2_tr-40,what is the highest mountain in australia?,QQ,3
+esdbpediav2-QALD2_tr-92,what is the highest mountain?,QQ,3
+esdbpediav2-QALD2_tr-47,what is the highest place of karakoram?,QQ,3
+esdbpediav2-QALD2_te-86,what is the largest city in australia?,QQ,3
+esdbpediav2-QALD2_te-15,what is the longest river?,QQ,3
+ysqle-yahoo-523-14,what is the longest running tv show,QQ,3
+esdbpediav2-QALD2_te-53,what is the ruling party in lisbon?,QQ,3
+esdbpediav2-QALD2_te-5,what is the second highest mountain on earth?,QQ,3
+esdbpediav2-QALD2_te-58,what is the time zone of salt lake city?,QQ,3
+esdbpediav2-SemSearch_LS-44,what languages do they speak in afghanistan,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-6,where did abraham lincoln die?,QQ,3
+esdbpediav2-QALD2_te-90,where is the residence of the prime minister of spain?,QQ,3
+esdbpediav2-SemSearch_LS-46,where the british monarch is also head of state,"CatQ, QQ",3
+ysqle-trec-2013-2-7,where to buy scooters,"CatQ, QQ",100
+esdbpediav2-QALD2_tr-68,which actors were born in germany?,"CatQ, QQ",100
+esdbpediav2-QALD2_tr-79,"which airports are located in california, usa?","CatQ, QQ",3
+esdbpediav2-QALD2_tr-29,which awards did wikileaks win?,"CatQ, QQ",3
+esdbpediav2-QALD2_te-81,which books by kerouac were published by viking press?,"CatQ, QQ",100
+esdbpediav2-QALD2_tr-26,which bridges are of the same type as the manhattan bridge?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-74,which capitals in europe were host cities of the summer olympic games?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-69,which caves have more than 3 entrances?,"CatQ, QQ",4
+esdbpediav2-QALD2_te-44,which cities does the weser flow through?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-13,which classis does the millepede belong to?,QQ,3
+esdbpediav2-QALD2_tr-65,which companies work in the aerospace industry as well as on nuclear reactor technology?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-45,which countries are connected by the rhine?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-34,which countries have more than two official languages?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-11,which countries have places with more than two caves?,QQ,100
+esdbpediav2-QALD2_tr-32,which countries in the european union adopted the euro?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-98,which country does the creator of miffy come from?,QQ,3
+esdbpediav2-QALD2_tr-81,which country has the most official languages?,QQ,3
+esdbpediav2-QALD2_te-75,which daughters of british earls died in the same place they were born in?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-28,which european countries have a constitutional monarchy?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-88,which films starring clint eastwood did he direct himself?,QQ,10
+esdbpediav2-QALD2_te-1,which german cities have more than 250000 inhabitants?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-55,which greek goddesses dwelt on mount olympus?,QQ,3
+ysqle-trec-2011-72-1,which home pregnancy tests are most accurate,QQ,4
+esdbpediav2-QALD2_te-65,which instruments did john lennon play?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-72,which languages are spoken in estonia?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-38,which monarchs of the united kingdom were married to a german?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-24,which mountain is the highest after the annapurna?,QQ,3
+esdbpediav2-QALD2_tr-61,which mountains are higher than the nanga parbat?,"CatQ, QQ",3
+esdbpediav2-QALD2_te-93,which movies did sam raimi direct after army of darkness?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-18,which museum exhibits the scream by munch?,QQ,3
+esdbpediav2-QALD2_tr-77,which music albums contain the song last christmas?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-91,which organizations were founded in 1950?,"CatQ, QQ",100
+esdbpediav2-QALD2_te-49,which other weapons did the designer of the uzi develop?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-52,which presidents were born in 1945?,"CatQ, QQ",10
+esdbpediav2-QALD2_te-46,which professional surfers were born on the philippines?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-4,which river does the brooklyn bridge cross?,QQ,3
+esdbpediav2-QALD2_te-66,which ships were called after benjamin franklin?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-64,which software has been developed by organizations founded in california?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-30,which state of the usa has the highest population density?,QQ,3
+esdbpediav2-QALD2_tr-21,which states border illinois?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-8,which states of germany are governed by the social democratic party?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-45,which telecommunications organizations are located in belgium?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-23,which television shows were created by walt disney?,"CatQ, QQ",100
+esdbpediav2-QALD2_te-25,which u.s. state has been admitted latest?,QQ,3
+esdbpediav2-QALD2_te-91,which u.s. state has the abbreviation mn?,QQ,3
+esdbpediav2-QALD2_te-59,which u.s. states are in the same timezone as utah?,"CatQ, QQ",3
+esdbpediav2-QALD2_tr-9,which u.s. states possess gold minerals?,CatQ,4
+esdbpediav2-QALD2_te-67,who are the parents of the wife of juan carlos i?,QQ,3
+esdbpediav2-QALD2_te-87,who composed the music for harold and maude?,QQ,3
+esdbpediav2-QALD2_tr-15,who created goofy?,QQ,3
+esdbpediav2-QALD2_te-84,who created the comic captain america?,QQ,3
+esdbpediav2-QALD2_tr-62,who created wikipedia?,QQ,3
+esdbpediav2-QALD2_tr-44,who designed the brooklyn bridge?,QQ,3
+esdbpediav2-QALD2_te-35,who developed skype?,QQ,3
+esdbpediav2-QALD2_tr-55,who developed the video game world of warcraft?,QQ,3
+esdbpediav2-QALD2_te-41,who founded intel?,QQ,3
+esdbpediav2-QALD2_tr-75,who has been the 5th president of the united states of america?,QQ,3
+erd14-TREC-91,who invented music,"ConQ, QQ",4
+esdbpediav2-SemSearch_LS-49,who invented the python programming language,QQ,3
+ysqle-trec-2010-11-1,who invented the radio,QQ,3
+esdbpediav2-QALD2_tr-3,who is the daughter of bill clinton married to?,QQ,3
+esdbpediav2-QALD2_te-11,who is the formula 1 race driver with the most races?,QQ,3
+esdbpediav2-QALD2_te-22,who is the governor of texas?,QQ,3
+esdbpediav2-QALD2_te-42,who is the husband of amanda palmer?,QQ,3
+esdbpediav2-QALD2_te-3,who is the mayor of berlin?,QQ,3
+esdbpediav2-QALD2_tr-43,who is the mayor of new york city?,QQ,3
+esdbpediav2-QALD2_tr-35,who is the owner of universal studios?,QQ,3
+esdbpediav2-QALD2_te-13,who is the youngest player in the premier league?,QQ,10
+esdbpediav2-QALD2_tr-73,who owns aldi?,QQ,3
+esdbpediav2-QALD2_te-97,who painted the storm on the sea of galilee?,QQ,3
+esdbpediav2-QALD2_tr-83,who produced films starring natalie portman?,"CatQ, QQ",10
+esdbpediav2-QALD2_tr-58,who produced the most films?,QQ,3
+esdbpediav2-QALD2_te-77,who was called scarface?,QQ,3
+esdbpediav2-QALD2_te-24,who was the father of queen elizabeth ii?,QQ,3
+esdbpediav2-QALD2_te-2,who was the successor of john f. kennedy?,QQ,3
+esdbpediav2-QALD2_tr-54,who was the wife of u.s. president lincoln?,QQ,3
+esdbpediav2-QALD2_tr-87,who wrote the book the pillars of the earth?,QQ,3
+esdbpediav2-QALD2_te-95,who wrote the lyrics for the polish national anthem?,QQ,3
+ysqle-trec-2012-72-1,whole house dehumidifier,CatQ,100
+ysqle-yahoo-16-2,windows xp 8,ConQ,4
+esdbpediav2-TREC_Entity-2,winners of the acm athena award.,CatQ,3
+ysqle-yahoo-273-3,womens adidas bounce,CatQ,10
+esdbpediav2-SemSearch_LS-50,wonders of the ancient world,CatQ,3
+ysqle-yahoo-358-0,woodsman stain,CatQ,10
+ysqle-yahoo-96-0,word 2007 to 2003 converter,CatQ,10
+esdbpediav2-INEX_XER-79,works by charles rennie mackintosh,CatQ,10
+ysqle-trec-2012-29-4,world film industries,CatQ,10
+ysqle-trec-2011-58-5,world snooker reigning superstar,ConQ,4
+ysqle-yahoo-450-0,youtube video,CatQ,100
