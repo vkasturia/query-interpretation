@@ -6,7 +6,7 @@ Web search queries can be ambiguous: is *source of the nile* meant to find infor
 name? We tackle this problem by deriving entity-based query interpretations: given some query, the task is to derive all reasonable
 ways of linking suitable parts of the query to semantically compatible entities in a background knowledge base. Interpreting ambiguous search engine queries can be used to show more relevant results to the user, answer the query or help fill search engine's knowledge boxes. 
 
-In the example, the query "tom cruise ship scene" could have the following interpretations: 
+In the example, the query *tom cruise ship scene* could have the following interpretations: 
 
 * **Tom Cruise | ship scene** : Scene of a movie of the Hollywood actor Tom Cruise on a ship (most likely)     
 * **tom | Cruise ship | scene** : Scene of some Tom on a Cruise ship   
